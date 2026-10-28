@@ -1,6 +1,6 @@
 # 大胆聊 · 拼音词典源码包
 
-本目录用于履行 **GPL-3.0** 的分发义务，只包含「拼音词典」这一份数据的**对应源码**
+本仓库用于履行 **GPL-3.0** 的分发义务，只包含「拼音词典」这一份数据的**对应源码**
 （输入词库的固定版本 + 转换脚本），不包含「大胆聊」输入法应用本身的任何源码。
 
 ## 这里面是什么
@@ -82,7 +82,7 @@ AOSP PinyinIME                     rawdict_utf16_65105_freq.txt
 
 ## 许可
 
-本目录下的脚本与本文档：**GPL-3.0**，全文见 `COPYING`。
+本仓库下的脚本与本文档：**GPL-3.0**，全文见 `COPYING`。
 
 上游词库文件按各自原许可分发：雾凇拼音为 GPL-3.0（https://github.com/iDvel/rime-ice），
 AOSP PinyinIME 为 Apache-2.0（https://android.googlesource.com/platform/packages/inputmethods/PinyinIME）。
