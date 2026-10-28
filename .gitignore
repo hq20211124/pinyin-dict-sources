@@ -1,0 +1,6 @@
+sources/
+out/
+out_aosp/
+*.tar.gz
+__pycache__/
+*.pyc
